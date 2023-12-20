@@ -1,6 +1,7 @@
 # Data-Visualization-HWK-5
 
 Analysis
+
 The analysis below compares Capomulin's effectiveness in combating squamous cell carcinoma (SCC) against other available medications.
 
 In this study, 249 mice who were identified with SCC tumors received treatment with a range of drug regimens. Over the course of 45 days, 
